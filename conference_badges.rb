@@ -20,5 +20,6 @@ room_assignments
 end
 
 def printer(attendees)
- puts "Hello, my name is #{attendee}."
+ batch_badge_creator
+ assign_rooms
 end
