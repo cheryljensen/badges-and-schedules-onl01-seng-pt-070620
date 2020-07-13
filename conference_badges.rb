@@ -12,6 +12,6 @@ badges
 end
 
 def assign_rooms(room_assignments)
-room_assignments.each do
+room_assignments.each do |name, index|
 
 end
