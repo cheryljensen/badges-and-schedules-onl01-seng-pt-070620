@@ -19,4 +19,4 @@ end
 rooms
 end
 
-def printer 
+def printer
