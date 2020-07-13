@@ -8,7 +8,9 @@ def batch_badge_creator(attendees)
   attendees.each do |attendee|
     badges<<"Hello, my name is #{name}."
   end
+badges
 end
 
-def assign_rooms 
-  assign_rooms.map.with-index |attendee,i| attendee +=1
+def assign_rooms
+
+end
