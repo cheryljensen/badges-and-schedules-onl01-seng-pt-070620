@@ -20,3 +20,4 @@ room_assignments
 end
 
 def printer
+end
